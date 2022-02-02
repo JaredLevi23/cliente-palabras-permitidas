@@ -5,7 +5,7 @@
 - Cambia la dirección IP y el puerto por la que hayas definido en la API
 
 ### Comenzar
-- Ejecuta el comando 
+- Ejecuta el comando desde la raíz del proyecto
 
 ```
 npm install
