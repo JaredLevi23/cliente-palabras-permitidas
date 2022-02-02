@@ -2,7 +2,7 @@
 
 ## Antes de comenzar...
 - Dirigete al archivo que se encuentra en src/api/wordsAPI.js 
-- Cambia la direccion IP y el puerto por la que hayas definido en la API
+- Cambia la dirección IP y el puerto por la que hayas definido en la API
 
 ### Comenzar
 - Ejecuta el comando 
