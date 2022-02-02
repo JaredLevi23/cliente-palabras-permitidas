@@ -1,24 +1,19 @@
-# cliente-palabras-permitidas
+# CLIENTE PALABRAS PERMITIDAS
 
-## Project setup
+## Antes de comenzar...
+- Dirigete al archivo que se encuentra en src/api/wordsAPI.js 
+- Cambia la direccion IP y el puerto por la que hayas definido en la API
+
+### Comenzar
+- Ejecuta el comando 
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Inicia la aplicación 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Abre el navegador e ingresa a la app con la url que lanza. 
